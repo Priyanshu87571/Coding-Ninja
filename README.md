@@ -34,7 +34,6 @@ An educational, **Coding Ninjas–style** coding platform UI built with **React,
 ---
 
 ## 🧱 Project Structure
-
 ```txt
 .
 ├─ index.html
